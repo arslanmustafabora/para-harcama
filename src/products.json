@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "bilgisayar",
+    "price": 1000
+  },
+  {
+    "id": 2,
+    "name": "ps5",
+    "price": 800
+  },
+  {
+    "id": 3,
+    "name": "meat",
+    "price": 2
+  },
+  {
+    "id": 4,
+    "name": "banana",
+    "price": 0.3
+  },
+  {
+    "id": 5,
+    "name": "t-shirt",
+    "price": 20
+  },
+  {
+    "id": 6,
+    "name": "shoe",
+    "price": 100
+  }
+]
