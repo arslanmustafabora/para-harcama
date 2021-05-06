@@ -32,7 +32,7 @@ function Product({product, basket, setBasket, total, money}) {
     return (
 
         <div className="product">
-
+            <img src={product.image} alt=""/>
             <h5>{product.name}</h5>
             <div className="price">${product.price}</div>
             <div className="actions">

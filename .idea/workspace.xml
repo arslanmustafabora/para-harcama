@@ -10,19 +10,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da0b1785-d2ba-48a4-896d-d610ed91a035" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helper.js" afterDir="false" />
+    <list default="true" id="da0b1785-d2ba-48a4-896d-d610ed91a035" name="Default Changelist" comment="initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/product.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/product.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/products.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/products.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,8 +70,16 @@
       <updated>1618924698308</updated>
       <workItem from="1618924699470" duration="4965000" />
       <workItem from="1620305268724" duration="99000" />
-      <workItem from="1620305633936" duration="1045000" />
+      <workItem from="1620305633936" duration="2081000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1620306807339</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620306807339</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,6 +96,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="-1506" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620306070229">
       <screen x="-1920" y="0" width="1920" height="1030" />
@@ -105,6 +109,10 @@
       <screen x="-1920" y="0" width="1920" height="1030" />
     </state>
     <state x="-1230" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1920.1030/0.0.1536.824@-1920.0.1920.1030" timestamp="1618925102936" />
+    <state x="-1592" y="421" key="Github.ShareDialog" timestamp="1620306983144">
+      <screen x="-1920" y="0" width="1920" height="1030" />
+    </state>
+    <state x="-1592" y="421" key="Github.ShareDialog/-1920.0.1920.1030/0.0.1536.824@-1920.0.1920.1030" timestamp="1620306983144" />
     <state width="1899" height="195" key="GridCell.Tab.0.bottom" timestamp="1620306136893">
       <screen x="-1920" y="0" width="1920" height="1030" />
     </state>
@@ -121,5 +129,17 @@
       <screen x="-1920" y="0" width="1920" height="1030" />
     </state>
     <state width="1899" height="195" key="GridCell.Tab.0.right/-1920.0.1920.1030/0.0.1536.824@-1920.0.1920.1030" timestamp="1620306136893" />
+    <state x="-1848" y="256" key="Vcs.Push.Dialog.v2" timestamp="1620306820937">
+      <screen x="-1920" y="0" width="1920" height="1030" />
+    </state>
+    <state x="-1848" y="256" key="Vcs.Push.Dialog.v2/-1920.0.1920.1030/0.0.1536.824@-1920.0.1920.1030" timestamp="1620306820937" />
+    <state x="-1827" y="100" width="774" height="847" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1620307236694">
+      <screen x="-1920" y="0" width="1920" height="1030" />
+    </state>
+    <state x="-1827" y="100" width="774" height="847" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-1920.0.1920.1030/0.0.1536.824@-1920.0.1920.1030" timestamp="1620307236694" />
+    <state x="-1777" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1620307166591">
+      <screen x="-1920" y="0" width="1920" height="1030" />
+    </state>
+    <state x="-1777" y="230" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1030/0.0.1536.824@-1920.0.1920.1030" timestamp="1620307166591" />
   </component>
 </project>
